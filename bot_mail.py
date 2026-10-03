@@ -8,7 +8,7 @@ import asyncio
 import os
 
 EMAIL_LOGIN = 'sharoy-roo@mail.ru'
-EMAIL_PASSWORD = 'musalovamb99'
+EMAIL_PASSWORD = 'rGcdH0x5aV2TVfY53roi'
 IMAP_SERVER = 'imap.mail.ru'
 ID_INSTANCE = '7107631855'
 API_TOKEN = '6b85d9d9086b4c18919ab1d919c3795d896e40cfb1244c42a8'
